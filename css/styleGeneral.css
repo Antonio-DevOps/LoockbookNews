@@ -18,7 +18,7 @@
   z-index: -1;
 }
 
-@media (min-width: 1792px) {
+@media (min-width: 1024px) {
   .maineHeader {
     background-image: url(../img/victor-zhuk-YReQIljurfQ-unsplash.jpg);
   }
