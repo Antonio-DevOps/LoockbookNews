@@ -18,7 +18,7 @@
   z-index: -1;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .maineHeader {
     background-image: url(../img/victor-zhuk-YReQIljurfQ-unsplash.jpg);
     background-position: center;
